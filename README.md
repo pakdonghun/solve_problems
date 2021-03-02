@@ -1,2 +1,7 @@
 # Solve-problems
-2021-02-28
+
+import itertools from combinations
+#조합 경우의 수
+
+[::-1] 
+#리스트 거꾸로 출력
