@@ -6,4 +6,3 @@ import itertools from combinations
 [::-1] 
 #리스트 거꾸로 출력
 
-2021-03-03
