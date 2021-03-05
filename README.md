@@ -6,3 +6,4 @@ import itertools from combinations
 [::-1] 
 #리스트 거꾸로 출력
 
+enumerate : index값 value값 같이 표현
