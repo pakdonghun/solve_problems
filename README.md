@@ -8,4 +8,3 @@ import itertools from combinations
 
 enumerate : index값 value값 같이 표현
 
-as
