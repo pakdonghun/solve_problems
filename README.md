@@ -7,5 +7,3 @@ import itertools from combinations
 #리스트 거꾸로 출력
 
 enumerate : index값 value값 같이 표현
-
-vj
