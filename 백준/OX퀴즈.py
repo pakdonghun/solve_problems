@@ -1,13 +1,13 @@
-a = int(input())
-for i in range(a):
-    b = input()
-    s = list(b)
+n = int(input())
+
+for i in range(n):
+    count = 0
     sum = 0
-    c = 1
-    for i in s:
-        if i == 'O':
-            sum += c
-            c += 1
+    a = list(input())
+    for j in a:
+        if j == 'O':
+            count +=1
+            sum = sum+count
         else:
-            c = 1
+            count = 0
     print(sum)
